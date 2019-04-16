@@ -4,7 +4,7 @@
 
 #### _This is a template using webpack for React, 04/15/19_
 
-#### By _**Ryan McLean**_
+#### By _****_
 
 ## Description
 
@@ -23,7 +23,7 @@ _If you run `npm run lint` on pc you will get `Expected linebreaks to be 'LF' bu
 
 ## Support and contact details
 
-_Please contact Ryan McLean at rmcleandev@gmail.com_
+_Please contact - at -@gmail.com_
 
 ## Technologies Used
 
@@ -37,4 +37,4 @@ _AOS_
 
 *This Software is Licensed under the MIT License.*
 
-Copyright (c) 2019 **_Ryan McLean_**
+Copyright (c) 2019 **__**
