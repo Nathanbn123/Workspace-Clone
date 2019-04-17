@@ -1,9 +1,10 @@
 import React from 'react';
-
+import { Link } from 'react-router-dom';
 function Header(){
   return (
     <div>
-      <h2>Farmers Market</h2>
+
+      <a><Link to="/" style={{ textDecoration: 'none', cursor: 'crosshair' }}><h2>Farmers Market</h2></Link></a>
       <style jsx>{`
         h2 {
           text-align: center;
@@ -14,6 +15,7 @@ function Header(){
           border-radius: 50px;
           text-shadow: 1px 1px #5f3917;
         }
+
         `}</style>
     </div>
   );
